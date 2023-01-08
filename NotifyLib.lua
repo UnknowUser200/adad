@@ -1700,7 +1700,7 @@ function lib:Window(text, preset, closebind)
             Box.Name = "Box"
             Box.Parent = Textbox
             Box.AnchorPoint = Vector2.new(1, 0.5)
-            Box.BackgroundColor3 = Color3.fromRGB(255, 87, 51)
+            Box.BackgroundColor3 = Color3.fromRGB(128,128,128)
             Box.BorderSizePixel = 0
             Box.Position = UDim2.new(1, -10, 0.5, 0)
             Box.Size = UDim2.new(0, 0, 0, 22)
